@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "serve": "node index.js",
     "start:optimized": "node --max-old-space-size=512 index.js"
   },
   "dependencies": {
